@@ -1,5 +1,6 @@
 # 💫 About Me
-👋 Hi, I'm Rina Osman<br><br>🎓 I’m a 4th-year Computer Science student at the University of Ottawa, pursuing a Management and Entrepreneurship Option.  <br>🔭 I’m currently working on web development and UX/UI projects.  <br>👩‍💻 I have experience with Python, Java, HTML, CSS, React, and UX/UI design using Figma.  <br>🌱 I’m currently learning more about React and improving my skills in app development.  <br>💬 Ask me about my experiences in internships, UX/UI design, or contributing to student organizations at uOttawa.  <br>⚡ Fun fact: I presented a social enterprise idea to advance the UN’s Sustainable Development Goals and won at the Ideas Lab competition!
+## 👋 Hi, I'm Rina Osman<br><br>
+🎓 I’m a 4th-year Computer Science student at the University of Ottawa, pursuing a Management and Entrepreneurship Option.<br>🔭 I’m currently working on web development and UX/UI projects.  <br>👩‍💻 I have experience with Python, Java, HTML, CSS, React, and UX/UI design using Figma.  <br>🌱 I’m currently learning more about React and improving my skills in app development.  <br>💬 Ask me about my experiences in internships, UX/UI design, or contributing to student organizations at uOttawa.  <br>⚡ Fun fact: I presented a social enterprise idea to advance the UN’s Sustainable Development Goals and won at the Ideas Lab competition!
 
 # 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rina-osman/) 
@@ -12,7 +13,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rinaxosman&theme=tokyonight&hide_border=true) 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rinaxosman&theme=onedark&no-frame=true&no-bg=false&margin-w=3)
+![](https://github-profile-trophy.vercel.app/?username=rinaxosman&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
