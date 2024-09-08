@@ -1,5 +1,5 @@
 # 💫 About Me
-## 👋 Hi, I'm Rina Osman<br><br>
+### 👋 Hi, I'm Rina Osman<br><br>
 🎓 I’m a 4th-year Computer Science student at the University of Ottawa, pursuing a Management and Entrepreneurship Option.<br>🔭 I’m currently working on web development and UX/UI projects.  <br>👩‍💻 I have experience with Python, Java, HTML, CSS, React, and UX/UI design using Figma.  <br>🌱 I’m currently learning more about React and improving my skills in app development.  <br>💬 Ask me about my experiences in internships, UX/UI design, or contributing to student organizations at uOttawa.  <br>⚡ Fun fact: I presented a social enterprise idea to advance the UN’s Sustainable Development Goals and won at the Ideas Lab competition!
 
 # 🌐 Socials
