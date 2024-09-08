@@ -12,7 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rinaxosman&theme=tokyonight&hide_border=true) 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rinaxosman&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=rinaxosman&theme=onedark&no-frame=true&no-bg=false&margin-w=3)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
