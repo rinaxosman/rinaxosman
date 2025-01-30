@@ -1,17 +1,7 @@
 # 💫 About Me
 ### 👋 Hi, I'm Rina Osman<br>
 
-<br>🎓 I’m a 4th-year Computer Science student at the University of Ottawa, pursuing a Management and Entrepreneurship Option.
-
-<br>👩‍💻 I have experience with Python, Java, JavaScript, HTML, CSS, React, Next.js, MongoDB, Flask, and UX/UI design using Figma.
-
-<br>💬 Ask me about my experiences in internships, cloud computing, DevOps, cybersecurity, UX/UI design, and open-source projects.
-
-<br>🌱 I'm currently working on web development, cloud computing, and machine learning projects.
-
-<br>☁️ I'm learning more about cloud computing, networking, DevOps, and data engineering, including Azure, virtual machines, Keycloak, Docker, and Airflow.
-
-<br>⚡ Fun fact: I presented a social enterprise idea to advance the UN’s Sustainable Development Goals and won at the Ideas Lab competition!
+<br>🎓 I’m a 4th-year Computer Science student at the University of Ottawa, pursuing a Management and Entrepreneurship Option.<br>👩‍💻 I have experience with Python, Java, JavaScript, HTML, CSS, React, Next.js, MongoDB, Flask, and UX/UI design using Figma.<br>💬 Ask me about my experiences in internships, cloud computing, DevOps, cybersecurity, UX/UI design, and open-source projects.<br>🌱 I'm currently working on web development, cloud computing, and machine learning projects.<br>☁️ I'm learning more about cloud computing, networking, DevOps, and data engineering, including Azure, virtual machines, Keycloak, Docker, and Airflow.<br>⚡ Fun fact: I presented a social enterprise idea to advance the UN’s Sustainable Development Goals and won at the Ideas Lab competition!
 
 # 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rina-osman/) 
