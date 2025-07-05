@@ -1,5 +1,4 @@
 # 👋 Hi there! I'm Rina.
-<br>
 
 <br>
 🎓 I’m a Computer Science graduate from the University of Ottawa, with a Management and Entrepreneurship Option.<br>
