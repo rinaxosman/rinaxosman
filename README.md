@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Rina</h1>
+<h1 align="center">Hey 👋What's Up?</h1>
 
 ###
 
