@@ -30,6 +30,9 @@
 # 📊 GitHub Stats
 
 <div align="center">
+  <picture>
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rinaxosman/rinaxosman/main/pacman-contributions.svg">
+  </picture>
   <img src="https://github-readme-stats.vercel.app/api?username=rinaxosman&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="200" alt="stats graph"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rinaxosman&theme=dracula&hide_border=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rinaxosman&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula&hide_border=true" height="200" alt="languages graph"  />
