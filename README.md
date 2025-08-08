@@ -1,4 +1,6 @@
 # <img height="50" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif"  /> Hi there! I'm Rina.
+<img alt="Rina's pink contribution graph"
+     src="https://pink-contri-k3z40vq6d-rinas-projects-363a651d.vercel.app/api/graph?user=rinaxosman" />
 
 <br>
 🎓 I’m a Computer Science graduate from the University of Ottawa, with a Management and Entrepreneurship Option.<br>
