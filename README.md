@@ -9,10 +9,7 @@
 🎯 I’m passionate about solving real-world problems through software, and I enjoy building useful tools, clean interfaces, and secure backend systems.<br>
 🌍 Fun fact: I pitched a social enterprise idea aligned with the UN’s Sustainable Development Goals and won the Ideas Lab competition!
 
----
-
-# 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rina-osman/) 
+### 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rina-osman/) 
 
 ---
 
@@ -57,19 +54,20 @@
 ---
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=rinaxosman&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rinaxosman&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=rinaxosman&theme=tokyonight&hide_border=true) 
+![](https://github-readme-stats.vercel.app/api?username=rinaxosman&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rinaxosman&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=rinaxosman&theme=dracula&hide_border=true) 
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rinaxosman&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=rinaxosman&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+
 
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
 ---
 
