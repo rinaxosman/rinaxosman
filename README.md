@@ -1,6 +1,4 @@
 # <img height="50" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif"  /> Hi there! I'm Rina.
-<img alt="Rina's pink contribution graph"
-     src="https://pink-contri-k3z40vq6d-rinas-projects-363a651d.vercel.app/api/graph?user=rinaxosman" />
 
 <br>
 🎓 I’m a Computer Science graduate from the University of Ottawa, with a Management and Entrepreneurship Option.<br>
@@ -40,6 +38,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rinaxosman&theme=dracula&hide_border=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rinaxosman&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula&hide_border=true" height="200" alt="languages graph"  />
 </div>
+
+<img alt="Rina's pink contribution graph" src="https://pink-contri-r4bdwbfce-rinas-projects-363a651d.vercel.app/api/graph?user=rinaxosman&t=3" />
 
 ---
 
