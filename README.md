@@ -19,23 +19,11 @@ I’ve worked on real-world projects involving **data pipelines, cloud infrastru
 
 # 💻 Tech Stack
 
-### 🌐 Frontend:
-HTML, CSS, JavaScript, React, Next.js
-
-### 🖥️ Backend:
-Python, Java, Flask, Django
-
-### 📊 Data & Pipelines:
-Spark, Iceberg
-
-### ☁️ Cloud & DevOps:
-Azure, Docker, Keycloak, Airflow
-
-### 🗄️ Databases:
-PostgreSQL, MongoDB
-
-### 🧰 Tools & Design:
-Git, GitHub, Figma, Power BI
+🌐 Frontend: React, Next.js, HTML, CSS, JS  
+🖥️ Backend: Python, Java  
+📊 Data: Spark, Iceberg  
+☁️ Cloud: Azure, Docker  
+🗄️ DB: PostgreSQL, MongoDB  
 
 ---
 
