@@ -1,15 +1,19 @@
-# <img height="50" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif"  /> Hi there! I'm Rina.
+# <img height="50" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif"  /> Hi there! I'm Rina 👋
 
 <br>
-🎓 I’m a Computer Science graduate from the University of Ottawa, with a Management and Entrepreneurship Option.<br>
-💻 I have experience in backend and frontend development, data pipelines, malware analysis, and cloud infrastructure.<br>
-🔐 I’ve worked on cybersecurity projects, deployed Keycloak authentication servers, managed databases, and built secure systems using SSL, DNS, and cloud platforms.<br>
-🛠️ Tools I’ve used include Python, Java, JavaScript, React, Next.js, Flask, MongoDB, Azure VMs, Spark, and Iceberg.<br>
-☁️ I’ve built data ingestion tools in Java with Spark + Iceberg, and I’ve configured cloud infrastructure using Azure and Docker.<br>
-🎯 I’m passionate about solving real-world problems through software, and I enjoy building useful tools, clean interfaces, and secure backend systems.<br>
-🌍 Fun fact: I pitched a social enterprise idea aligned with the UN’s Sustainable Development Goals and won the Ideas Lab competition!
+💼 Full-time Software Developer  
+🎓 Computer Science graduate from the University of Ottawa  
+💻 Backend, frontend, data engineering, and cloud infrastructure  
+🔐 Cybersecurity experience with auth, secure systems, and cloud deployments  
 
-### 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rina-osman/) 
+I enjoy building **useful, well-designed software** — from clean interfaces to secure, scalable backend systems.  
+I’ve worked on real-world projects involving **data pipelines, cloud infrastructure, and authentication systems**.
+
+🌱 Recently: Attending hackathons and working on fintech-related projects  
+🏆 Fun fact: Pitched a social enterprise aligned with the UN SDGs and won the Ideas Lab competition
+
+🌐 **Website:** [rinaosman.com](https://rinaosman.com)  
+🔗 **LinkedIn:** [linkedin.com/in/rina-osman](https://www.linkedin.com/in/rina-osman/)
 
 ---
 
