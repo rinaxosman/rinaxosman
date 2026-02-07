@@ -1,4 +1,4 @@
-# <img height="50" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif"  /> Hi there! I'm Rina 👋
+# <img height="50" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif"  />  Hi there! I'm Rina 👋
 
 <br>
 💼 Full-time Software Developer  
@@ -34,25 +34,14 @@ I’ve worked on real-world projects involving **data pipelines, cloud infrastru
 </picture>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rinaxosman&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="200" alt="stats graph"  />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=rinaxosman&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="200" alt="stats graph"  /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rinaxosman&theme=dracula&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rinaxosman&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula&hide_border=true" height="200" alt="languages graph"  />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rinaxosman&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula&hide_border=true" height="200" alt="languages graph"  /> -->
 </div>
 
-<img alt="Rina's pink contribution graph" src="https://pink-contri-r4bdwbfce-rinas-projects-363a651d.vercel.app/api/graph?user=rinaxosman&t=5" />
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=rinaxosman&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
-
+<!-- <img alt="Rina's pink contribution graph" src="https://pink-contri-r4bdwbfce-rinas-projects-363a651d.vercel.app/api/graph?user=rinaxosman&t=5" /> -->
 
 ---
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=rinaxosman&icon=1&color=9)](https://visitcount.itsvg.in)
