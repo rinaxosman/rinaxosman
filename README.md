@@ -41,7 +41,5 @@ I’ve worked on real-world projects involving **data pipelines, cloud infrastru
 
 <!-- <img alt="Rina's pink contribution graph" src="https://pink-contri-r4bdwbfce-rinas-projects-363a651d.vercel.app/api/graph?user=rinaxosman&t=5" /> -->
 
----
-
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
