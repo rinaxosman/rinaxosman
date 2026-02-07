@@ -2,9 +2,9 @@
 
 <br>
 💼 Full-time Software Developer  
-🎓 Computer Science graduate from the University of Ottawa  
-💻 Backend, frontend, data engineering, and cloud infrastructure  
-🔐 Cybersecurity experience with auth, secure systems, and cloud deployments  
+<br>🎓 Computer Science graduate from the University of Ottawa  
+<br>💻 Backend, frontend, data engineering, and cloud infrastructure  
+<br>🔐 Cybersecurity experience with auth, secure systems, and cloud deployments  
 
 I enjoy building **useful, well-designed software** — from clean interfaces to secure, scalable backend systems.  
 I’ve worked on real-world projects involving **data pipelines, cloud infrastructure, and authentication systems**.
