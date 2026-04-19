@@ -15,8 +15,6 @@ I’ve worked on real-world projects involving **data pipelines, cloud infrastru
 🌐 **Website:** [rinaosman.com](https://rinaosman.com)  
 🔗 **LinkedIn:** [linkedin.com/in/rina-osman](https://www.linkedin.com/in/rina-osman/)
 
----
-
 # 💻 Tech Stack
 
 🌐 Frontend: React, Next.js, HTML, CSS, JS  
@@ -24,8 +22,6 @@ I’ve worked on real-world projects involving **data pipelines, cloud infrastru
 📊 Data: Spark, Iceberg  
 ☁️ Cloud: Azure, Docker  
 🗄️ DB: PostgreSQL, MongoDB  
-
----
 
 # 📊 GitHub Stats
 
