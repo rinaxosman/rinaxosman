@@ -12,8 +12,9 @@ I’ve worked on real-world projects involving data pipelines, cloud infrastruct
 🌱 Recently: Attending hackathons and building AI-focused projects  
 🏆 Fun fact: Pitched a social enterprise aligned with the UN SDGs and won the Ideas Lab competition  
 <br><br>
-🌐 Website: [rinaosman.com](https://rinaosman.com) <br>
-🔗 LinkedIn: [linkedin.com/in/rina-osman](https://www.linkedin.com/in/rina-osman/)
+🌐 Website: <a href="https://rinaosman.com">rinaosman.com</a>
+<br>
+🔗 LinkedIn: <a href="https://www.linkedin.com/in/rina-osman/">linkedin.com/in/rina-osman</a>
 
 # 💻 Tech Stack
 
