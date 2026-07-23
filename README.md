@@ -1,27 +1,26 @@
-# <img height="50" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif"  />  Hi there! I'm Rina 👋
+# <img height="50" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" /> Hi there! I'm Rina 👋
 
 <br>
 💼 Full-time Software Developer  
 <br>🎓 Computer Science graduate from the University of Ottawa  
 <br>💻 Backend, frontend, data engineering, and cloud infrastructure  
-<br>🔐 Cybersecurity experience with auth, secure systems, and cloud deployments  
-
-I enjoy building **useful, well-designed software** — from clean interfaces to secure, scalable backend systems.  
-I’ve worked on real-world projects involving **data pipelines, cloud infrastructure, and authentication systems**.
-
-🌱 Recently: Attending hackathons and working on fintech-related projects  
-🏆 Fun fact: Pitched a social enterprise aligned with the UN SDGs and won the Ideas Lab competition
-
-🌐 **Website:** [rinaosman.com](https://rinaosman.com)  
-🔗 **LinkedIn:** [linkedin.com/in/rina-osman](https://www.linkedin.com/in/rina-osman/)
+<br>🔐 Cybersecurity experience with authentication, secure systems, and cloud deployments  
+<br><br>
+I enjoy building useful, well-designed software — from clean interfaces to secure, scalable backend systems.  
+I’ve worked on real-world projects involving data pipelines, cloud infrastructure, and authentication systems.
+<br><br>
+🌱 Recently: Attending hackathons and building AI-focused projects  
+🏆 Fun fact: Pitched a social enterprise aligned with the UN SDGs and won the Ideas Lab competition  
+<br><br>
+🌐 Website: [rinaosman.com](https://rinaosman.com) <br>
+🔗 LinkedIn: [linkedin.com/in/rina-osman](https://www.linkedin.com/in/rina-osman/)
 
 # 💻 Tech Stack
 
-🌐 Frontend: React, Next.js, HTML, CSS, JS  
-🖥️ Backend: Python, Java  
-📊 Data: Spark, Iceberg  
-☁️ Cloud: Azure, Docker  
-🗄️ DB: PostgreSQL, MongoDB  
+🌐 **Frontend:** React, Next.js, TypeScript, HTML, CSS  
+🖥️ **Backend:** Python, FastAPI, Java  
+📊 **Data:** SQL, PostgreSQL  
+🛠️ **Tools:** Git, Docker, Azure  
 
 # 📊 GitHub Stats
 
